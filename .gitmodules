@@ -1,0 +1,3 @@
+[submodule "rlbench-dataset-utils"]
+	path = rlbench-dataset-utils
+	url = git@github.com:SimonReese/rlbench-dataset-utils.git
